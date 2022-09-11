@@ -1,2 +1,3 @@
 # leetcode-practice
-leet Problems solved and explained 💻 🚀
+
+leet code Problems solved and explained 💻 🚀
